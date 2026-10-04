@@ -1,0 +1,24 @@
+row,reg_no,doc_type,received,pages,url
+1,7553,Exhibit AB,03/03/2025,10,https://efile.fara.gov/docs/7553-Exhibit-AB-20250303-1.pdf
+2,7553,Exhibit C,03/03/2025,13,https://efile.fara.gov/docs/7553-Exhibit-C-20250303-1.pdf
+3,7553,Registration Statement,03/03/2025,7,https://efile.fara.gov/docs/7553-Registration-Statement-20250303-1.pdf
+4,7553,Short-Form,03/03/2025,3,https://efile.fara.gov/docs/7553-Short-Form-20250303-2.pdf
+5,7553,Short-Form,03/03/2025,3,https://efile.fara.gov/docs/7553-Short-Form-20250303-4.pdf
+6,7553,Amendment,08/29/2025,3,https://efile.fara.gov/docs/7553-Amendment-20250829-1.pdf
+7,7553,Exhibit AB,08/29/2025,9,https://efile.fara.gov/docs/7553-Exhibit-AB-20250829-2.pdf
+8,7553,Short-Form,08/29/2025,3,https://efile.fara.gov/docs/7553-Short-Form-20250829-10.pdf
+9,7553,Short-Form,08/29/2025,3,https://efile.fara.gov/docs/7553-Short-Form-20250829-6.pdf
+10,7553,Short-Form,08/29/2025,3,https://efile.fara.gov/docs/7553-Short-Form-20250829-8.pdf
+11,7553,Short-Form,09/02/2025,3,https://efile.fara.gov/docs/7553-Short-Form-20250902-12.pdf
+12,7553,Short-Form,09/02/2025,3,https://efile.fara.gov/docs/7553-Short-Form-20250902-14.pdf
+13,7553,Amendment,09/03/2025,3,https://efile.fara.gov/docs/7553-Amendment-20250903-2.pdf
+14,7553,Short-Form,09/03/2025,3,https://efile.fara.gov/docs/7553-Short-Form-20250903-16.pdf
+15,7553,Short-Form,09/03/2025,3,https://efile.fara.gov/docs/7553-Short-Form-20250903-18.pdf
+16,7553,Short-Form,09/29/2025,3,https://efile.fara.gov/docs/7553-Short-Form-20250929-20.pdf
+17,7553,Short-Form,09/29/2025,3,https://efile.fara.gov/docs/7553-Short-Form-20250929-22.pdf
+18,7553,Supplemental Statement,12/11/2025,16,https://efile.fara.gov/docs/7553-Supplemental-Statement-20251211-1.pdf
+19,7553,Informational Materials,01/08/2026,3,https://efile.fara.gov/docs/7553-Informational-Materials-20260108-1.pdf
+20,7553,Amendment,06/30/2026,3,https://efile.fara.gov/docs/7553-Amendment-20260630-3.pdf
+21,7553,Supplemental Statement,06/30/2026,22,https://efile.fara.gov/docs/7553-Supplemental-Statement-20260630-2.pdf
+22,7553,Amendment,07/02/2026,3,https://efile.fara.gov/docs/7553-Amendment-20260702-4.pdf
+23,7553,Exhibit AB,07/02/2026,6,https://efile.fara.gov/docs/7553-Exhibit-AB-20260702-3.pdf
