@@ -34,6 +34,7 @@ Ministry of Records is a records-only research desk (solo operator). This reposi
 | [fara-7662](fara-7662/) | Davis Media NY LLC |
 | [fara-7664](fara-7664/) | American Future Fund |
 | [fara-7394](fara-7394/) | IPG DXTRA, Inc. d/b/a Weber Shandwick (Israel Ministry of Finance engagement) |
+| [fara-7552](fara-7552/) | SKDKnickerbocker LLC |
 
 ## Corrections
 
