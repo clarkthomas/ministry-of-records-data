@@ -5,11 +5,16 @@ CSV files of every row the registrant's DOJ FARA eFile filings print, used in th
 | File | Rows | What it holds |
 |---|---|---|
 | receipts.csv | 7 | The registration receipt and the six supplemental receipt rows. |
-| disbursements.csv | 743 | The registration's one summary row ("multiple" payees) and the 742 supplemental appendix rows, in printed order, repeated rows included. |
+| disbursements-part1.csv | 187 | Disbursements rows 1-187: the registration's one summary row ("multiple" payees) and supplemental appendix rows, in printed order, repeated rows included. |
+| disbursements-part2.csv | 187 | Disbursements rows 188-374 (supplemental appendix, printed order). |
+| disbursements-part3.csv | 185 | Disbursements rows 375-559 (supplemental appendix, printed order). |
+| disbursements-part4.csv | 184 | Disbursements rows 560-743 (supplemental appendix, printed order). |
 | contacts.csv | 7 | Supplemental Item 12 entries. |
 | principals.csv | 4 | The foreign principal and the three Havas entries as printed. |
 | printed_totals.csv | 6 | Each total as the filings print it. |
 | contributions.csv | 4 | Political contributions as reported to FARA. |
+
+The disbursements table (743 rows) is split into four files so each stays under the upload size limit. Each part repeats the header row; the `row` column runs 1-743 across the parts, so the parts can be joined in order.
 
 **Rules**
 
