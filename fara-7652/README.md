@@ -19,4 +19,8 @@ CSV files of every row the registrant's DOJ FARA eFile filings print, used in th
 - Names of private individuals who are not owners or filers are replaced with "Individual 1" to "Individual 5" (13 rows). No residence addresses, bank details or birth years.
 - These files hold FARA filing data only. The LDA, FEC and business-registry results described in the pack are not included.
 
+**Changes**
+
+- 2026-10-04: `note` added to disbursements.csv rows 17 and 29: the 09/22/2025 Pinkston Group Inc row ($6,638.00, amendment) and the 11/18/2025 row ($8,200.00, supplemental) are separate printed rows and are not combined. No figure changed.
+
 Ministry of Records is a records-only research desk.

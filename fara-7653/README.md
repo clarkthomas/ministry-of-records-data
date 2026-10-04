@@ -24,4 +24,8 @@ The disbursements table (743 rows) is split into four files so each stays under 
 - Names of private individuals who are not filers are replaced with "[individual payee; name not reproduced]" (30 rows). No residence addresses, bank details or birth years.
 - These files hold FARA filing data only. The LDA, FEC and business-registry results described in the pack are not included.
 
+**Changes**
+
+- 2026-10-04: `note` added to receipts.csv rows 1, 2, 3 and 5. Rows 1 and 2: whether the 09/18/2025 registration receipt and the 09/27/2025 supplemental line ($325,881.00 each) are the same transfer is UNKNOWN. Rows 3 and 5 (10/10/2025 and 12/30/2025) are separate printed receipts. No figure changed.
+
 Ministry of Records is a records-only research desk.
